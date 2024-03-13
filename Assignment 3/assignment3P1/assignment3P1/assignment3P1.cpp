@@ -7,7 +7,7 @@
 
 
     void insertionSort(std::string arr[], int n) {
-        for (int i = 1; i < n; ++i) {
+        for (int i = 1; i < n; ++i) {  // hello
             std::string key = arr[i];
             int j = i - 1;
             while (j >= 0 && arr[j] > key) {
