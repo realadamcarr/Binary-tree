@@ -1,0 +1,3 @@
+﻿  assignment3P2.cpp
+C:\Users\adamc\OneDrive - TUS MM\Problem solving with data and algorithms\assignment3P2\assignment3P2\assignment3P2.cpp(9,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  assignment3P2.vcxproj -> C:\Users\adamc\OneDrive - TUS MM\Problem solving with data and algorithms\assignment3P2\x64\Debug\assignment3P2.exe
